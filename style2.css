@@ -1,0 +1,115 @@
+.center h2{
+position: absolute;
+top: 22%;
+left: 35%;
+transform: translate(-50%,-50%);
+font-size: x-large;
+font-style: normal;
+font-family: sans-serif;
+color: black;
+}   
+
+.centre img{
+position: absolute;
+top: 35%;
+left: 35%;
+transform: translate(-50%,-50%);
+font-size: x-large;
+font-style: normal;
+font-family: sans-serif;
+color: black;
+}   
+
+.centre2 img{
+position: absolute;
+top: 35%;
+left: 58%;
+transform: translate(-50%,-50%);
+font-size: x-large;
+font-style: normal;
+font-family: sans-serif;
+color: black;
+}   
+
+.centre3 img{
+position: absolute;
+top: 70%;
+left: 35%;
+transform: translate(-50%,-50%);
+font-size: x-large;
+font-style: normal;
+font-family: sans-serif;
+color: black;
+}   
+
+.centre4 img{
+position: absolute;
+top: 70%;
+left: 58%;
+transform: translate(-50%,-50%);
+font-size: x-large;
+font-style: normal;
+font-family: sans-serif;
+color: black;
+}   
+
+.center h2{
+position: absolute;
+top: 18%;
+left: 46%;
+transform: translate(-50%,-50%);
+font-size: x-large;
+font-style: normal;
+font-family: sans-serif;
+color: black;
+}   
+
+.center2 h2{
+position: absolute;
+top: 22%;
+left: 46%;
+transform: translate(-50%,-50%);
+font-size: x-large;
+font-style: normal;
+font-family: sans-serif;
+color: black;
+}   
+
+.center3 img{
+position: absolute;
+top: 55%;
+left: 45%;
+transform: translate(-50%,-50%);
+font-size: x-large;
+font-style: normal;
+font-family: sans-serif;
+color: black;
+}   
+
+.center4 h2{
+position: absolute;
+top: 70%;
+left: 58%;
+transform: translate(-50%,-50%);
+font-size: x-large;
+font-style: normal;
+font-family: sans-serif;
+color: black;
+}   
+
+
+.leftArrow img{
+position: absolute;
+top: 95%;
+left: 5%;
+transform: translate(-50%,-50%);
+}
+
+.rightArrow img{
+position: absolute;
+top: 95%;
+left: 95%;
+transform: translate(-50%,-50%);
+}
+
+

@@ -1,0 +1,133 @@
+.flex-container {
+display: flex;
+flex-direction: row;
+justify-content: center;
+padding-top: 1px;
+}
+
+
+
+a:active{
+color:red;
+
+}
+a:link{
+color:yellow
+}
+
+a:hover{
+color:peru
+}
+.leftTop img{
+position: absolute;
+top: 30%;
+left: 21%;
+transform: translate(-50%,-50%);
+}
+
+.rightTop img{
+position: absolute;
+top: 30%;
+left: 75%;
+transform: translate(-50%,-50%);
+}
+
+.leftBottom img{
+position: absolute;
+top: 80%;
+left: 21%;
+transform: translate(-50%,-50%);
+}
+
+.rightBottom img{
+position: absolute;
+top: 80%;
+left: 75%;
+transform: translate(-50%,-50%);
+}
+
+.leftArrow img{
+position: absolute;
+top: 95%;
+left: 5%;
+transform: translate(-50%,-50%);
+}
+
+.rightArrow img{
+position: absolute;
+top: 95%;
+left: 95%;
+transform: translate(-50%,-50%);
+}
+
+.centre h2{
+position: absolute;
+top: 55%;
+left: 50%;
+transform: translate(-50%,-50%);
+
+}
+
+.rightMiddle img{
+position: absolute;
+top: 55%;
+left: 70%;
+transform: translate(-50%,-50%);
+
+}
+
+.greeting h2{
+position: absolute;
+top: 75%;
+left: 21%;
+transform: translate(-50%,-50%);
+}
+
+.jumble img{
+position: absolute;
+top: 35%;
+left: 11%;
+transform: translate(-50%,-50%);
+}
+
+.jumble1 h3{
+position: absolute;
+top: 5%;
+left: 25%;
+transform: translate(-50%,-50%);
+}
+
+.jumble2 h3{
+position: absolute;
+top: 15%;
+left: 25%;
+transform: translate(-50%,-50%);
+}
+.jumble3 h3{
+position: absolute;
+top: 25%;
+left: 25%;
+transform: translate(-50%,-50%);
+}
+.jumble4 h3{
+position: absolute;
+top: 35%;
+left: 25%;
+transform: translate(-50%,-50%);
+}
+
+.topRight h3{
+position: absolute;
+top: 5%;
+left: 95%;
+transform: translate(-50%,-50%);
+
+}
+
+.topRight2 h3{
+position: absolute;
+top: 10%;
+left: 95%;
+transform: translate(-50%,-50%);
+
+}
